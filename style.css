@@ -34,7 +34,7 @@ a {
 }
 
 .logo {
-    color: #ffffff;
+    color: #fff;
     font-size: 24px;
     font-weight: 800;
     text-decoration: none;
@@ -71,9 +71,7 @@ h2 span {
     justify-content: space-between;
     gap: 40px;
     padding: 85px 10%;
-    background:
-        radial-gradient(ellipse at 80% 30%,
-        #252052 0%, #0b1020 55%);
+    background: radial-gradient(ellipse at 80% 30%, #252052 0%, #0b1020 55%);
 }
 
 .hero-content {
@@ -130,7 +128,7 @@ h2 span {
 
 .btn-primary {
     background: #7c3aed;
-    color: #ffffff;
+    color: #fff;
 }
 
 .btn-primary:hover {
@@ -139,7 +137,7 @@ h2 span {
 
 .btn-outline {
     border-color: #555078;
-    color: #ffffff;
+    color: #fff;
 }
 
 .btn-outline:hover {
